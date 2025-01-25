@@ -2,7 +2,7 @@
 
 **🎓 Computer Science and Engineering Student**  
 
-- 🔭 Explore my [**Portfolio**](#)  
+- 🔭 Explore my [**Portfolio**](https://vishnu-web-app.web.app/)  
 - 🌱 Currently learning **Data Structures and Algorithms (DSA)**  
 - 👯 Looking to collaborate on **Machine Learning (ML)** and **Artificial Intelligence (AI)** projects  
 - 🤔 Seeking guidance for placements in **FAANG**  
